@@ -14,8 +14,8 @@
     --dark-color: ghostwhite;
     --dark-highlight-bg: forestgreen;
     --dark-secondary-highlight-bg: darkgreen;
-    --dark-highlight-bg-reverse: crimson;
-    --dark-secondary-highlight-bg-reverse: darkred;
+    --dark-highlight-bg-reverse: darkgoldenrod;
+    --dark-secondary-highlight-bg-reverse: saddlebrown;
   }
   * {
     background-color: light-dark(var(--light-bg), var(--dark-bg));
